@@ -1,4 +1,4 @@
- Hello everyone welcome 👌
+ Hello everyone, welcome 👌
 
  I'm Andrey Nikitin, from Moscow, Russia.
 
