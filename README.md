@@ -75,18 +75,13 @@
  
   
   
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamga05&show_icons=true)
-  
+ 
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tamga05&theme=white&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamga05&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tamga05)](https://github.com/anuraghazra/github-readme-stats)
 
   
  
