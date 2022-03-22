@@ -15,3 +15,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100" alt="LinkedIn Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/andrey-nikitin-rus/">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" width="70" alt="Gmail Badge"/>
+  </a>
+</div>
