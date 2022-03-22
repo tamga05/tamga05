@@ -42,5 +42,9 @@
  <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=tamga05&style=flat-square&color=orange" height="27" alt="GitHub Counter"/>
  </div>
+ 
+ a:hover {
+    text-decoration: none;
+}
 
 
