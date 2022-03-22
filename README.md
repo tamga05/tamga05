@@ -3,7 +3,7 @@
 </div>
 <br>
  
- Hello everyone, welcome 👌
+ Hello everyone, welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="20" width="20"> !!!
 
  I'm Andrey Nikitin, from Moscow, Russia.
 
@@ -11,14 +11,23 @@
  
  My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Visual Studio Code, HTML5, CSS3, semantics, BEM-naming, cross-browser compatibility, Flexbox layout, positioning, pseudo-elements, pseudo-classes, working with Github and Git, deploy projects on Github, task manager Gulp, SASS/SCSS preprocessor, adaptability (@media querys), CSS Shapes, transformations, animations, animations librarys, work in team, code for React (Node.js, NPM, NVM), Grid layout, Mobile first, installation and configuration Swiper, Pixel-perfect, Material UI, Styled Components, SVG, SVG-sprites, code for CMS (WordPress), Magnific Popup library, code for e-mail newsletters, tasks solving freeCodeCamp and Codewars.
  <br>
-
+ <br>
+ 
  <div id="badges" align="center">
-   <a href="https://www.linkedin.com/in/andrey-nikitin-rus/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100" alt="LinkedIn Badge"/>
+    
+   <a href="https://www.linkedin.com/in/andrey-nikitin-rus/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100" alt="LinkedIn Badge"/>
    </a>
-   <a href="mailto:tamga05@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" width="100" height="25" alt="Gmail Badge"/>
+  
+   <a href="mailto:tamga05@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" width="100" height="25" alt="Gmail Badge"/>
    </a>
+  
+  </div>
+  <br>
+  
+  <div id="badges" align="center">
+      <img src="https://komarev.com/ghpvc/?username=tamga05&style=flat-square&color=blue" height="25" alt="GitHub Counter"/>
   </div>
 
 
