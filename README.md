@@ -12,7 +12,6 @@
  
  **I will be glad to work in your team !!!** 😉
  <br>
- <br>
  
  <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/andrey-nikitin-rus/">
@@ -37,8 +36,8 @@
  <div id="badges" align="center">
     <img src="https://komarev.com/ghpvc/?username=tamga05&style=flat-square&color=orange" height="27" alt="GitHub Counter"/>
  </div>
-<br>
-<br>
+
+<hr>
 
 **Languages and Tools:**
 
@@ -64,6 +63,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   </div>
+  
+  <hr>
+  
+  **My Stats:**
   
   
 
