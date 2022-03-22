@@ -14,8 +14,10 @@
  <br>
  <br>
  
+  <a href=»https://google.ru» target=»_blank» title=»Гугл»>
+ 
  <div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/andrey-nikitin-rus/">
+    <a href="https://www.linkedin.com/in/andrey-nikitin-rus/" target=»_blank»>
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" height="27" alt="LinkedIn Badge"/>
     </a>
 <!--  </div>
@@ -43,8 +45,7 @@
     <img src="https://komarev.com/ghpvc/?username=tamga05&style=flat-square&color=orange" height="27" alt="GitHub Counter"/>
  </div>
  
- a:hover {
-    text-decoration: none;
-}
+ 
+
 
 
