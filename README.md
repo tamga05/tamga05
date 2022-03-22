@@ -13,11 +13,10 @@
  
  <br>
  <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/andrey-nikitin-rus/ style="text-decoration: none">
+  <a href="https://www.linkedin.com/in/andrey-nikitin-rus/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100" alt="LinkedIn Badge"/>
   </a>
-
-  <a href="mailto:tamga05@gmail.com" style="text-decoration: none">
+  <a href="mailto:tamga05@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" width="100" height="25" alt="Gmail Badge"/>
   </a>
 </div>
