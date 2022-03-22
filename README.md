@@ -24,6 +24,12 @@
         <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=flat-square" width="100" height="25" alt="Gmail Badge"/>
     </a>
  </div>
+ 
+ <div id="badges" align="center">
+ <a href="https://www.freecodecamp.org/tamga05" target="_blank">
+    <img src="https://img.shields.io/badge/freeCodeCamp-black?style=flat-square&logo=freeCodeCamp&logoColor=white" height="26" alt="freeCodeCamp Badge"/>
+  </a>
+ </div>
  <br>
   
  <div id="badges" align="center">
