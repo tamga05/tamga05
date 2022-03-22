@@ -14,7 +14,6 @@
  
  **I will be glad to work in your team !!!** 😉
  <br>
- <br>
  
  <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/andrey-nikitin-rus/">
@@ -25,26 +24,14 @@
     </a>
 </div>
 <br>
- 
- <div id="badges" align="center">
- <a href="https://www.codewars.com/users/Andrey%20Nikitin">
-    <img src="https://img.shields.io/badge/Codewars-red?style=flat-square&logo=Codewars&logoColor=white" height="27" alt="Codewars Badge"/>
- </a>
- <a href="https://www.freecodecamp.org/tamga05">
-    <img src="https://img.shields.io/badge/freeCodeCamp-black?style=flat-square&logo=freeCodeCamp&logoColor=white" height="27" alt="freeCodeCamp Badge"/>
- </a>
- </div>
- <br>
-  <div align="center">
-  <a href="https://wakatime.com/@d1404803-9fc1-4524-ad54-f97ce2c8dea1"><img src="https://wakatime.com/badge/user/d1404803-9fc1-4524-ad54-f97ce2c8dea1.svg" height="27"    alt="Total time coded since Dec 3 2021" /></a>
+<div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=tamga05&style=flat-square&color=orange" height="27" alt="GitHub Counter"/>
   </div>
-  
  
-
 ****
-
-**Languages and Tools:**
-
+<div align="center">
+My languages, tools and skils :
+<br>
 <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -60,29 +47,36 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-<br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="35" height="35"/>&nbsp;
   <img src="https://github.com/zeplin/zeplin-workbook/blob/master/img/logo.svg" title="Zeplin" alt="Zeplin" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
-  
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  </div>
   </div>
   
   ****
   
   <div align="center">
     My coding statistics :
+ <br>
   <br>
-  <br>
- 
+  
+  <a href="https://wakatime.com/@d1404803-9fc1-4524-ad54-f97ce2c8dea1"><img src="https://wakatime.com/badge/user/d1404803-9fc1-4524-ad54-f97ce2c8dea1.svg" height="27"    alt="Total time coded since Dec 3 2021" /></a>
+   <br>
+  
+  <div id="badges">
+ <a href="https://www.codewars.com/users/Andrey%20Nikitin">
+    <img src="https://img.shields.io/badge/Codewars-red?style=flat-square&logo=Codewars&logoColor=white" height="27" alt="Codewars Badge"/>
+ </a>
+ <a href="https://www.freecodecamp.org/tamga05">
+    <img src="https://img.shields.io/badge/freeCodeCamp-black?style=flat-square&logo=freeCodeCamp&logoColor=white" height="27" alt="freeCodeCamp Badge"/>
+ </a>
+ </div>
+ <br>
+  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tamga05&theme=white&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-  
+ 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamga05&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
-  
-  <br>
-  <div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=tamga05&style=flat-square&color=orange" height="27" alt="GitHub Counter"/>
-  </div>
-  </div>
+ </div>
