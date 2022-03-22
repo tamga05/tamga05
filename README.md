@@ -16,7 +16,7 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=fwmvGMBxPVPqvZCjPvjbWqpGwzxXpPGZhPsLnQVMpqdHNDfWJdHFhWFHlkbRHnqqVFRrTRVJPwjHVCgMrjNKMTWltDLKbNRlnwFQVBwhMpDpNTmTkCmg">
+  <a href="https://mail.google.com/">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" width="70" alt="Gmail Badge"/>
   </a>
 </div>
