@@ -28,7 +28,7 @@
  
 ****
 <div align="center">
-My languages, tools and skils :
+  <strong>My languages, tools and skils :</strong>
 <br>
 <br>
 <div>
@@ -58,7 +58,7 @@ My languages, tools and skils :
   ****
   
   <div align="center">
-    My coding statistics :
+  <strong>My coding statistics :</strong>
  <br>
   <br>
   
