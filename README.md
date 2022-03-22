@@ -35,10 +35,11 @@
  </a>
  </div>
  <br>
+  <div align="center">
+  <a href="https://wakatime.com/@d1404803-9fc1-4524-ad54-f97ce2c8dea1"><img src="https://wakatime.com/badge/user/d1404803-9fc1-4524-ad54-f97ce2c8dea1.svg" height="27"    alt="Total time coded since Dec 3 2021" /></a>
+  </div>
   
- <div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=tamga05&style=flat-square&color=orange" height="27" alt="GitHub Counter"/>
- </div>
+ 
 
 ****
 
@@ -71,18 +72,17 @@
   
   ****
   
-  **My Stats:**
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+  <div align="center">
+    My coding statistics :
+  <br>
+  <br>
  
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tamga05&theme=white&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamga05&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
   
-
-  
- 
- 
-
-
-
+  <br>
+  <div id="badges" align="center">
+    <img src="https://komarev.com/ghpvc/?username=tamga05&style=flat-square&color=orange" height="27" alt="GitHub Counter"/>
+  </div>
+  </div>
