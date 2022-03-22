@@ -18,21 +18,16 @@
     <a href="https://www.linkedin.com/in/andrey-nikitin-rus/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" height="27" alt="LinkedIn Badge"/>
     </a>
-
- 
- 
     <a href="mailto:tamga05@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=flat-square" height="27" alt="Gmail Badge"/>
     </a>
 </div>
+<br>
  
  <div id="badges" align="center">
  <a href="https://www.freecodecamp.org/tamga05">
     <img src="https://img.shields.io/badge/freeCodeCamp-black?style=flat-square&logo=freeCodeCamp&logoColor=white" height="27" alt="freeCodeCamp Badge"/>
-  </a>
-
- 
- 
+ </a>
  <a href="https://www.codewars.com/users/Andrey%20Nikitin">
     <img src="https://img.shields.io/badge/Codewars-red?style=flat-square&logo=Codewars&logoColor=white" height="27" alt="Codewars Badge"/>
   </a>
