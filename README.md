@@ -4,7 +4,7 @@
 </div>
 <br>
  
- **Hello you, welcome !!!**  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30">
+ **Hello you, welcome !!!**   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30">
 
  I'm Andrey Nikitin, from Moscow, Russia.
 
