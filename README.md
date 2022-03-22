@@ -15,19 +15,19 @@
  
  <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/andrey-nikitin-rus/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" width="100" alt="LinkedIn Badge"/>
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" width="100" alt="LinkedIn Badge"/>
     </a>
  </div>
  
  <div id="badges" align="center">
     <a href="mailto:tamga05@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=for-the-badge" width="100" height="25" alt="Gmail Badge"/>
+        <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=flat-square" width="100" height="25" alt="Gmail Badge"/>
     </a>
  </div>
  <br>
   
  <div id="badges" align="center">
-    <img src="https://komarev.com/ghpvc/?username=tamga05&style=for-the-badge&color=orange" height="25" alt="GitHub Counter"/>
+    <img src="https://komarev.com/ghpvc/?username=tamga05&style=flat-square&color=orange" height="26" alt="GitHub Counter"/>
  </div>
 
 
