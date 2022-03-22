@@ -40,7 +40,7 @@
     <img src="https://komarev.com/ghpvc/?username=tamga05&style=flat-square&color=orange" height="27" alt="GitHub Counter"/>
  </div>
 
-***
+****
 
 **Languages and Tools:**
 
@@ -69,7 +69,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   </div>
   
-  ***
+  ****
   
   **My Stats:**
   
