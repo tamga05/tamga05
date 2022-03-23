@@ -58,14 +58,8 @@
   ****
   
   <div align="center">
-  <strong>My coding statistics :</strong>
- <br>
+  <strong>My coding statistics and tasks solving :</strong>
   <br>
-  
-  <a href="https://wakatime.com/@d1404803-9fc1-4524-ad54-f97ce2c8dea1"><img src="https://wakatime.com/badge/user/d1404803-9fc1-4524-ad54-f97ce2c8dea1.svg" height="27"    alt="Total time coded since Dec 3 2021" /></a>
-   <br>
-  
-  [![tamga05's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tamga05)](https://github.com/anuraghazra/github-readme-stats)
   <br>
   
   <div id="badges">
@@ -76,9 +70,18 @@
     <img src="https://img.shields.io/badge/freeCodeCamp-black?style=flat-square&logo=freeCodeCamp&logoColor=white" height="27" alt="freeCodeCamp Badge"/>
  </a>
  </div>
- <br>
+  <br>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tamga05&theme=white&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
- 
+  <br>
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamga05&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  
+  [![tamga05's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tamga05)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  
+  <a href="https://wakatime.com/@d1404803-9fc1-4524-ad54-f97ce2c8dea1"><img src="https://wakatime.com/badge/user/d1404803-9fc1-4524-ad54-f97ce2c8dea1.svg" height="27"    alt="Total time coded since Dec 3 2021" /></a>
+   <br>
+   
  </div>
