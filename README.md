@@ -92,8 +92,9 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <a href="https://wakatime.com/@d1404803-9fc1-4524-ad54-f97ce2c8dea1"><img src="https://wakatime.com/badge/user/d1404803-9fc1-4524-ad54-f97ce2c8dea1.svg" height="27"    alt="Total time coded since Dec 3 2021" /></a>
 <br>
 </div>
-  
+
 <hr>
-  
-<br>
-<strong>Thank you for your interest !!!</strong> 😉
+
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif" width="200"/>
+</div>
