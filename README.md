@@ -13,6 +13,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 
 **I will be glad to work in your team !!!** 😉
 <br>
+<br>
 <div align="center">
 <a href="https://www.linkedin.com/in/andrey-nikitin-rus/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" height="27" alt="LinkedIn Badge"/>
