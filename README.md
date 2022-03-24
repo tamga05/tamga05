@@ -16,19 +16,19 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <br>
 <div align="center">
 <a href="https://www.linkedin.com/in/andrey-nikitin-rus/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square" height="27" alt="LinkedIn Badge"/>
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=default" height="27" alt="LinkedIn Badge"/>
 </a>
 <div>
 <br>
 <div align="center">
 <a href="mailto:tamga05@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=flat-square" height="27" alt="Gmail Badge"/>
+<img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=default" height="27" alt="Gmail Badge"/>
 </a>
 <div>
 
 <br>
 <div id="badges" align="center">
-<img src="https://komarev.com/ghpvc/?username=tamga05&style=flat-square&color=orange" height="27" alt="GitHub Counter"/>
+<img src="https://komarev.com/ghpvc/?username=tamga05&style=default&color=orange" height="27" alt="GitHub Counter"/>
 </div>
 
 ****
@@ -69,13 +69,13 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 
 <div id="badges">
 <a href="https://www.codewars.com/users/Andrey%20Nikitin">
-<img src="https://img.shields.io/badge/Codewars-red?style=flat-square&logo=Codewars&logoColor=white" height="27" alt="Codewars Badge"/>
+<img src="https://img.shields.io/badge/Codewars-red?style=default&logo=Codewars&logoColor=white" height="27" alt="Codewars Badge"/>
 </a>
 </div>
 <br>
 <div id="badges">
 <a href="https://www.freecodecamp.org/tamga05">
-<img src="https://img.shields.io/badge/freeCodeCamp-black?style=flat-square&logo=freeCodeCamp&logoColor=white" height="27" alt="freeCodeCamp Badge"/>
+<img src="https://img.shields.io/badge/freeCodeCamp-black?style=default&logo=freeCodeCamp&logoColor=white" height="27" alt="freeCodeCamp Badge"/>
 </a>
 </div>
 <br>
