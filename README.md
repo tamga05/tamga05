@@ -60,6 +60,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
 </div>
+![Certificat freeCodeCamp](https://github.com/tamga05/tamga05/blob/main/freeCodeCamp.png)
   
 ****
 
