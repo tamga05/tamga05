@@ -88,7 +88,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamga05&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 
 <!-- [![tamga05's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tamga05)](https://github.com/anuraghazra/github-readme-stats) -->
 <br>
