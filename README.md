@@ -97,7 +97,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <br>
 </div>
   
-[![tamga05 github activity graph](https://activity-graph.herokuapp.com/graph?username=tamga05&theme=github-light)](https://github.com/tamga05/github-readme-activity-graph)
+[![tamga05 github activity graph](https://activity-graph.herokuapp.com/graph?username=tamga05&theme=github-light&point=33A0F5)](https://github.com/tamga05/github-readme-activity-graph)
 
 <hr>
 
