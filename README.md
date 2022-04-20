@@ -16,7 +16,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <br>
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/andrey-nikitin-rus/" target="_blank">
+<a href="https://www.linkedin.com/in/andrey-nikitin-rus/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=default" height="30" alt="LinkedIn Badge"/>
 </a>
 <div>
