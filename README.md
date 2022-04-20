@@ -16,13 +16,13 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <br>
 <br>
 <div align="center">
-<a target="_blank" href="https://www.linkedin.com/in/andrey-nikitin-rus/">
+<a href="https://www.linkedin.com/in/andrey-nikitin-rus/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=default" height="30" alt="LinkedIn Badge"/>
 </a>
 <div>
 <br>
 <div align="center">
-<a target="_blank" href="mailto:tamga05@gmail.com">
+<a href="mailto:tamga05@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=default" height="30" alt="Gmail Badge"/>
 </a>
 <div>
@@ -72,7 +72,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <br>
 
 <div id="badges">
-  <a href="https://www.codewars.com/users/Andrey%20Nikitin" target="_blank">
+  <a href="https://www.codewars.com/users/Andrey%20Nikitin" target="_blanck">
 <a href="https://www.codewars.com/users/Andrey%20Nikitin" target="_blank">
 <img src="https://img.shields.io/badge/Codewars-red?style=default&logo=Codewars&logoColor=white" height="30" alt="Codewars Badge"/>
 </a>
@@ -80,7 +80,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 </div>
 <br>
 <div id="badges">
-<a href="https://www.freecodecamp.org/tamga05" target="_blank">
+<a href="https://www.freecodecamp.org/tamga05">
 <img src="https://img.shields.io/badge/freeCodeCamp-black?style=default&logo=freeCodeCamp&logoColor=white" height="30" alt="freeCodeCamp Badge"/>
 </a>
 </div>
