@@ -72,11 +72,9 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <br>
 
 <div id="badges">
-  <a href="https://www.codewars.com/users/Andrey%20Nikitin" target="_blanck">
-<a href="https://www.codewars.com/users/Andrey%20Nikitin" target="_blank">
+<a href="https://www.codewars.com/users/Andrey%20Nikitin">
 <img src="https://img.shields.io/badge/Codewars-red?style=default&logo=Codewars&logoColor=white" height="30" alt="Codewars Badge"/>
 </a>
-    </a>
 </div>
 <br>
 <div id="badges">
