@@ -1,4 +1,3 @@
-<base target="_blank">
 <br>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>
@@ -79,7 +78,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 </div>
 <br>
 <div id="badges">
-<a href="https://www.freecodecamp.org/tamga05">
+<a href="https://www.freecodecamp.org/tamga05" target="_blank"!important>
 <img src="https://img.shields.io/badge/freeCodeCamp-black?style=default&logo=freeCodeCamp&logoColor=white" height="30" alt="freeCodeCamp Badge"/>
 </a>
 </div>
