@@ -96,6 +96,8 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <a href="https://wakatime.com/@d1404803-9fc1-4524-ad54-f97ce2c8dea1"><img src="https://wakatime.com/badge/user/d1404803-9fc1-4524-ad54-f97ce2c8dea1.svg?style=default" height="30" alt="Total time coded since Dec 3 2021" /></a>
 <br>
 </div>
+  
+[![tamga05's github activity graph](https://activity-graph.herokuapp.com/graph?username=tamga05)](https://github.com/tamga05/github-readme-activity-graph)
 
 <hr>
 
