@@ -22,7 +22,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <div>
 <br>
 <div align="center">
-<a href="mailto:tamga05@gmail.com">
+<a href="mailto:tamga05@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=default" height="30" alt="Gmail Badge"/>
 </a>
 <div>
