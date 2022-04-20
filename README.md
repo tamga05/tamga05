@@ -98,14 +98,8 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 </div>
   
 [![tamga05 github activity graph](https://activity-graph.herokuapp.com/graph?username=tamga05&theme=github-light&point=33A0F5)](https://github.com/tamga05/github-readme-activity-graph)
-
-<div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tamga05&theme=github)
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tamga05&theme=github)
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tamga05&theme=github)
-</div>
   
 <hr>
 
