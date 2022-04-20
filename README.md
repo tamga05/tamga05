@@ -16,13 +16,13 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <br>
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/andrey-nikitin-rus/">
+<a target="_blank" href="https://www.linkedin.com/in/andrey-nikitin-rus/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=default" height="30" alt="LinkedIn Badge"/>
 </a>
 <div>
 <br>
 <div align="center">
-<a href="mailto:tamga05@gmail.com" target="_blank">
+<a target="_blank" href="mailto:tamga05@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=default" height="30" alt="Gmail Badge"/>
 </a>
 <div>
