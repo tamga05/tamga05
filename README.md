@@ -1,14 +1,14 @@
-<!-- <br>
-<div id="header" align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/>
-</div>
-<br> -->
-
 <br>
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="75"/>
+</div>
+<br>
+
+<!-- <br>
 <div id="header" align="center">
 <img src="https://miro.medium.com/max/952/1*JhfgzVXA0lvAIGIfRICRfA.gif" height="75" width="75">
 </div>
-<br>
+<br> -->
 
 **Hello you, welcome !!!**   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30" width="30"> 
 <!-- <img src="https://miro.medium.com/max/952/1*JhfgzVXA0lvAIGIfRICRfA.gif" height="30" width="30"> -->
