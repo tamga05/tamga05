@@ -111,3 +111,15 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/l3q2FnW3yZRJVZH2g/giphy.gif" width="200"/>
 </div>
+
+<hr>
+<br>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&repo=Counter_React)](https://tamga05.github.io/Counter_React/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&repo=Counter_React)](https://tamga05.github.io/Counter_React/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&repo=Counter_React)](https://tamga05.github.io/Counter_React/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&repo=Counter_React)](https://tamga05.github.io/Counter_React/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&repo=Counter_React)](https://tamga05.github.io/Counter_React/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&repo=Counter_React)](https://tamga05.github.io/Counter_React/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&repo=Counter_React)](https://tamga05.github.io/Counter_React/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&repo=Counter_React)](https://tamga05.github.io/Counter_React/)
