@@ -98,7 +98,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <!-- [![My Wakatime activity](https://github-readme-stats.vercel.app/api/wakatime?username=tamga05)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tamga05&card_width=765&&layout=compact&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tamga05&theme=white&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tamga05&theme=react&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
   
