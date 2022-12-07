@@ -105,8 +105,10 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tamga05&theme=github)
   
-[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=tamga05&theme=github-light&point=33A0F5)](https://github.com/tamga05/github-readme-activity-graph)
+<!-- [![My github activity graph](https://activity-graph.herokuapp.com/graph?username=tamga05&theme=github-light&point=33A0F5)](https://github.com/tamga05/github-readme-activity-graph) -->
    
+  [![My github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=tamga05&bg_color=ffffff&color=000000&line=b2f8af&point=75c3ff&hide_border=true)](https://github.com/tamga05/github-readme-activity-graph)
+  
 <hr>
 
 <div id="header" align="center">
