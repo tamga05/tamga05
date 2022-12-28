@@ -119,7 +119,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <br>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&theme=react&repo=Counter_React)](https://tamga05.github.io/Counter_React/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&theme=react&repo=Counter_React)](https://tamga05.github.io/Counter_React/)
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&theme=react&repo=Counter_React)](https://tamga05.github.io/Counter_React/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&theme=react&repo=TODO_list_React)](https://tamga05.github.io/TODO_list_React/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tamga05&theme=react&repo=Samurai_Way_React)](https://tamga05.github.io/Samurai_Way_React/)
