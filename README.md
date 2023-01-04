@@ -43,7 +43,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 
 ****
 <div align="center">
-<strong>My languages, tools and skils :</strong>
+<strong>Andrey Nikitin's languages, tools and skils :</strong>
 <br>
 <br>
 <div>
@@ -76,7 +76,7 @@ My skills: working with graphic editors Photoshop, Zeplin, Figma, code editor Vi
 <hr>
  
 <div align="center">
-<strong>My coding statistics and tasks solving :</strong>
+<strong>Andrey Nikitin's coding statistics and tasks solving :</strong>
 <br>
 <br>
 
